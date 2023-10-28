@@ -1,4 +1,4 @@
-# Buffer Overflow - Vanila
+# Buffer Overflow - Vanilla
 
 -   Fazer o fuzzing com X inteiros, até a aplicação crashar
     
